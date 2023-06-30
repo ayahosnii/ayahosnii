@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @ayahosnii
 - 👀 I’m interested in PHP and Laravel
 - 🌱 I’m currently learning Data Structure
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/ayahosny/)
+- 📫 How to reach me  <a href="https://www.linkedin.com/in/ayahosny/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 
 <!---
 ayahosnii/ayahosnii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,11 +21,5 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ayahosny/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-
-</div>
 
 ###
