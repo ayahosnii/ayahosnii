@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayahosnii
 - 👀 I’m interested in PHP and Laravel
-- 🌱 I’m currently learning SOLID
+- 🌱 I’m currently learning Data Structure
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/ayahosny/)
 
 <!---
